@@ -1,5 +1,5 @@
 public class ProcessingArray {
-    public static void main(String[] args) {
+
         int[] givenArray = {785, 6281, 297, 530, 5691, 2847, 1511, 7952, 3857, 8550, 8798, 4,
                 3989, 5523, 8066, 6192, 5425, 4939, 9024, 4686, 8900, 1670, 9527, 9331,
                 555, 7070, 4699, 722, 3417, 770, 6725, 8234, 9245, 5194, 1626, 6712, 2212,
@@ -92,4 +92,4 @@ public class ProcessingArray {
         // Print the 5th odd element every time, but count all the even elements and print
 
     }
-}
+
