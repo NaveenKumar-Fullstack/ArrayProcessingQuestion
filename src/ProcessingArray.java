@@ -1,4 +1,4 @@
-public class ProcessingArray {
+public  class ProcessingArray {
 
         int[] givenArray = {785, 6281, 297, 530, 5691, 2847, 1511, 7952, 3857, 8550, 8798, 4,
                 3989, 5523, 8066, 6192, 5425, 4939, 9024, 4686, 8900, 1670, 9527, 9331,
